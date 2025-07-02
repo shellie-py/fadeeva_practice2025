@@ -37,3 +37,20 @@ pip install opencv-python Pillow numpy
 ```bash
 python main.py
 ```
+
+## Сборка и установка
+
+### 1. Сборка пакета
+```bash
+python setup.py sdist bdist_wheel
+```
+
+### Установка локально
+```bash
+pip install .
+```
+
+### 2. Запуск после установки
+```bash
+image-editor
+```
