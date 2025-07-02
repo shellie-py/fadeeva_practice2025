@@ -1,0 +1,8 @@
+README.md
+setup.py
+image_editor.egg-info/PKG-INFO
+image_editor.egg-info/SOURCES.txt
+image_editor.egg-info/dependency_links.txt
+image_editor.egg-info/entry_points.txt
+image_editor.egg-info/requires.txt
+image_editor.egg-info/top_level.txt

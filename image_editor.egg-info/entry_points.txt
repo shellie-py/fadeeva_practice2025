@@ -1,0 +1,2 @@
+[console_scripts]
+image-editor = editor.app:main

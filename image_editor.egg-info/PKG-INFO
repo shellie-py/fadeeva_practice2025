@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: image-editor
+Version: 1.0.0
+Summary: Редактор изображений с функциями обработки
+Home-page: https://github.com/shellie-py/fadeeva_practice2025.git
+Author: Ира
+Author-email: ira.fad33va@mail.ru
+Keywords: image editor opencv tkinter
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python>=4.5.5
+Requires-Dist: Pillow>=9.0.1
+Requires-Dist: numpy>=1.21.5
+
 # 🖼️ Image Editor - Редактор изображений
 
 Профессиональный редактор изображений с поддержкой обработки в реальном времени. Поддерживает работу с файлами и веб-камерой.
